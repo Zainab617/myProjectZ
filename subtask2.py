@@ -19,4 +19,6 @@ print("n= ",n)
 print("s= ",s)
 print("m= ",m)
 print("a= ",a)
+
 naturalNb()
+# it looks like I learned how to use git today
